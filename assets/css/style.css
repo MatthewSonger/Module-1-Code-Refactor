@@ -20,10 +20,12 @@ body {
     font-size: 48px;
 }
 
+/* makes "seo" stand out in the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* beginning of nav bar styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +43,18 @@ body {
     margin-left: 25px;
 }
 
+/* styles all anchor elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* styles all paragraph elements */
 p {
     font-size: 16px;
 }
 
+/* styles and displays our hero image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/* styles benefits sidebar section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +110,8 @@ p {
     max-width: 150px;
 }
 
+
+/* styles What Horiseon Does section */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,6 +131,7 @@ p {
     font-size: 36px;
 }
 
+/* styles footer */
 .footer {
     padding: 30px;
     clear: both;
